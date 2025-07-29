@@ -46,8 +46,46 @@ Bottom Line
 "Public" doesn’t mean "unregulated." While some cases (e.g., non-commercial research) may have fair-use arguments, violating ToS remains risky. Consult a lawyer for critical projects. When in doubt: prioritize ethics, legality, and transparency.
 
 Note: This is not legal advice. Laws evolve—always seek expert counsel.
+
+
+🟢 1. Government-Sanctioned Portal (Recommended)
+PhilJobNet (philjobnet.gov.ph)
+
+Status: Official PH government platform under the Department of Labor and Employment (DOLE). Explicitly encourages public access to job data for employment matching 9.
+
+Scraping Permissions:
+
+Free public access to job listings, employer details, and labor market information.
+
+No prohibitions against automated data collection in ToS (unlike commercial sites).
+
+Designed as a national "one-stop shop" for job data 9.
+
+Data Fields: Job titles, companies, locations, posting dates, employment types, application URLs.
+
+⚠️ 2. Free Job Boards with Implied Consent
+These sites host publicly posted jobs but lack explicit scraping policies. Proceed cautiously:
+
+Jora Philippines (jora.com/ph): Aggregates jobs from multiple sources; lightweight interface 6.
+
+Pinoy Jobs: Local job board emphasizing "safe hiring," likely tolerant of non-invasive scraping 6.
+
+GradPhilippines: Targets students/graduates; job data is publicly listed for applicants 6.
+
+Bossjob: Focuses on job matching; public listings suggest permissive use 6.
+Guidelines:
+
+Check robots.txt (e.g., User-agent: * allows scraping).
+
+Avoid high-frequency requests to prevent server strain.
 '''
 
+
+
+# Website i can Try: https://ph.jora.com/ 
+r'''
+I think this site is a Third Party Man Website Because it Stated that It comes from the Other Website But this is a Good Practice Site for me 
+'''
 
 from playwright.sync_api import sync_playwright
 
