@@ -3,6 +3,26 @@
 
 # Timeline/History:
 
+# July 31, 2025 
+r'''
+I want to Learn and Analyze a Website in terms of Legality whether i can scrape it or not 
+
+'''
+
+# July 30, 2025
+r'''
+
+Learning the Gray Area of Web Scrapping and The Legality of Web Scrapping 
+    1. Scrapping a Third Party Website : "Jora" Similar to the other Website like Jobstreet or Even Linkdiln because i had no idea how to navigate things in terms of legality
+    2. 
+
+Fixing the Github of Why i can't just upload things in there 
+    "
+    💡 Only push your code and essential files to GitHub. 
+    Keep large or system-specific folders (like venv/) out using .gitignore. Use requirements.txt to share your environment.
+    " 
+    # Requirment of Learning Things in here 
+'''
 
 # July 29 2025
 r'''

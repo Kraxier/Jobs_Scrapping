@@ -13,7 +13,8 @@ r'''
 Some Key Factor in Determining Legality 
 
 1. Website's Terms of Service (ToS):
-    * The most common factor. If a website's ToS explicitly prohibits scraping (e.g., clauses against automated access, data extraction, or bots), 
+    * The most common factor. If a website's ToS explicitly prohibits scraping
+    (e.g., clauses against automated access, data extraction, or bots), 
     scraping it likely violates the contract and can be grounds for legal action (breach of contract).
     * Ignoring a clearly stated prohibition in the robots.txt file (especially Disallow: /) 
     also signals violation of the site's terms.
