@@ -1,7 +1,12 @@
 
 # History or Timeline of What I currently Gonna do In "Project_Job_PH"
-
+# 
 # Timeline/History:
+
+# August 1, 2025:
+r'''
+    1. Trying the BS4 and Request 
+'''
 
 # July 31, 2025 
 r'''

@@ -5,7 +5,9 @@ r'''
 1. Website ToS (Clear)
 2. Checking for the robot.txt
     * Introduction in "robot.txt"
+    * I Can Definitely Scrape the Website
 3. Figuring out if the type of Data i will needed to scrape is Legal: 
+    * Figuring out The Following Scrapping Method (General)
 4. What is my Scrape Method 
 5. Phillipines Law for Web Scrapping 
 
