@@ -3,9 +3,19 @@
 # 
 # Timeline/History:
 
+# August 2, 2025: 
+r'''
+    1. Learning to Investigate a Website First Before Touching  a code
+        A. Understanding robot.txt (Done)
+        B. Can i somehow Read the robot.txt or automate it in python? 
+        C. Understanding Incognito and Browser Investigation in Website
+        D. Learning the Dev Tools for Furthermore Investigation of the Website
+'''
+
 # August 1, 2025:
 r'''
     1. Trying the BS4 and Request 
+    2. Sticking to Playwright BS4 and REquest DIdn't work 
 '''
 
 # July 31, 2025 
